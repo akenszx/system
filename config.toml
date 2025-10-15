@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#6C63FF"               # soft violet accent
+backgroundColor="#FDFDFD"            # very light gray-white background
+secondaryBackgroundColor="#E6F4F1"   # pastel mint for panels/sidebars
+textColor="#333333"                  # dark gray for better readability
+font="sans serif"

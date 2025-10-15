@@ -1,0 +1,13 @@
+scipy
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+folium
+rtree
+plotly
+geopy
+pydeck
+streamlit-option-menu
